@@ -10,7 +10,7 @@ The purpose of the MITNft contract is to mint and manage MITAvatars, which are u
 **This project was deployed using hardhat, so it also demonstrates a Hardhat use case. It comes with the contracts and the scripts that deploys the contracts.**
 This contract is deployed to on the Sepolia testnet at **0xa8A957ef63C4937e61557c3a116dDF3dFcbC9635**. And can be seen on Opensea [here](https://testnets.opensea.io/assets/sepolia/0xa8a957ef63c4937e61557c3a116ddf3dfcbc9635/1).
 
-# Please note that the code provided is just an example, and you may need to modify it to suit your specific requirements if you need to use it.
+## Please note that the code provided is just an example, and you may need to modify it to suit your specific requirements if you need to use it.
 ## Contributing
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request on the GitHub repository. I appreciate any contributions to make this contract better.
 
